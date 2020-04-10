@@ -34,7 +34,7 @@ h1 {
     top: -50%;
     mix-blend-mode: ;
     position: absolute;
-    font-size: 20rem;
+    font-size: 10rem;
     background: linear-gradient(145deg, rgb(8, 108, 155), rgb(106, 187, 219));
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;

@@ -44,6 +44,7 @@ h1 {
     border-bottom: 10px solid white;
     z-index: 1;
     animation: bgAnimate 10s infinite linear;
+    text-align: center;
 }
 
 @keyframes bgAnimate {
